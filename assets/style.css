@@ -23,6 +23,15 @@ body {
   padding-right: 20px;
 }
 
+#wrapper {
+  background-color: #F5F5F5;
+  margin-left: 15%;
+  padding-bottom: 50px;
+  padding-top: 30px;
+  margin-top: 30px;
+  width: 980px;
+}
+
 header {
   text-align: center;
   padding: 20px;
@@ -135,3 +144,4 @@ button[disabled] {
     font-size: 0.8rem;
   }
 }
+
