@@ -3,7 +3,7 @@
 ## Table of Contents
 
 * [Description](#description)
-* [Code Snippets](#code)
+* [Snippets](#snippets)
 * [Technologies](#technologies)
 * [Preview](#preview)
 * [Links](#links)
@@ -12,7 +12,7 @@
 
 This project consisted on creating an application that anyone can use to generate a random password based on criteria they can select. It will include HTML and CSS powered by well functioning JavaScript code. 
 
-## Code Snippets
+## Snippets 
 
 * **Questions asked to the client**
 ```            
